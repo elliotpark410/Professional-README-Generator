@@ -11,3 +11,13 @@ function init() {}
 
 // Function call to initialize app
 init();
+
+var object = {
+  name: elliot,
+  age: 29,
+  location: irvine,
+};
+
+// FIXME:
+
+//  NOTE: 
