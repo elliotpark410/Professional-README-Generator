@@ -19,27 +19,28 @@ function generateMarkdown(data) {
   ${data.description}
 
   ## Table of Contents
-  * [Installation Instructions](#installation-instructions)
-  * [Usage Information](#usage-information)
-  * [Contribution Guidelines](#contribution-guidelines)
-  * [Test Instructions](#test-instructions)
+  * [Installation Instructions](#installation)
+  * [Usage Information](#usage)
+  * [Contribution Guidelines](#contribution)
+  * [Test Instructions](#test)
   * [License](#license)
   * [Questions](#questions)
-  * 
+  
+
   ## Installation Instructions
-  ${data.installation-instructions}
+  ${data.installation}
 
   ## Usage Information
-  ${data.usage-information}
+  ${data.usage}
 
   ## Contribution Guidelines 
-  ${data.contribution-guidelines}
+  ${data.contribution}
 
   ## Test Instructions
-  ${data.test-instructions}
+  ${data.test}
 
   ## Questions
-  * If you'd like to learn more about this application, feel free to check out my GitHub profile: [GitHub profile](https://github.com/${data.github-username})
+  * If you'd like to learn more about this application, check out my [GitHub profile](https://github.com/${data.github})
   
   * If you have any questions, please email me at ${data.email}.
 

@@ -18,22 +18,22 @@ const questions = [
   {
     type: 'input',
     message: 'What are the installation instructions?',
-    name: 'installation-instructions',
+    name: 'installation',
   },
   {
     type: 'input',
     message: 'What is the usage information?',
-    name: 'usage-information',
+    name: 'usage',
   },
   {
     type: 'input',
     message: 'What are the contribution guidelines?',
-    name: 'contribution-guidelines',
+    name: 'contribution',
   },
   {
     type: 'input',
     message: 'What are the test instructions?',
-    name: 'test-instructions',
+    name: 'test',
   },
   {
     type: 'checkbox',
@@ -44,7 +44,7 @@ const questions = [
   {
     type: 'input',
     message: 'What is your Github username?',
-    name: 'github-username',
+    name: 'github',
   },
   {
     type: 'input',
