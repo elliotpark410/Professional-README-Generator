@@ -1,0 +1,27 @@
+Todos: 
+Create git repository 
+Clone to local machine 
+Read README.md 
+Pull everything out of Develop folder
+Look at Student Resources 
+Watch class video 
+Complete Code Drills 
+Review Activities
+Create Pseudocode (if needed)
+Create user story 
+Beigin Coding  
+Add comments and clean up code 
+Practice git branching 
+Copy README template and create README 
+    -learning how to create badges: https://gist.github.com/lukas-h/2a5d00690736b4c3a7ba
+    -learning how to create Table of Contents: https://github.com/othneildrew/Best-README-Template
+    -learning how to create a good README: https://github.com/scottydocs/README-template.md
+Review grading criteria 
+Capture video recording of README generator for previous homework 
+Make sure video looks good   
+Submit video recording and Github URL to Bootcamp Spot 
+
+
+
+
+
