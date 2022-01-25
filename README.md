@@ -75,9 +75,9 @@ Screenshot of README created (part 3)
 <br>
 
 
-## Deployed Link
+## GIF of Application
 
-* [https://elliotpark410.github.io/Weather-Dashboard/](#)
+<img src="images\README Generator.gif" title="README generator" width = 700px>
 
 <br>
 
