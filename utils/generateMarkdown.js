@@ -56,12 +56,12 @@ function generateMarkdown(data) {
 
 
   ## Questions
-  * If you'd like to learn more about this application, check out my [GitHub profile](https://github.com/${data.github})
+  * If you'd like to learn more about this application, check out my Github profile: [https://github.com/${data.github}](https://github.com/${data.github})
   
-  * If you have any questions, please email me at ${data.email}.
+  * If you have any questions, please don't hesitate to email me at ${data.email}.
 
 
-  
+
   ## License
   ${data.license}
 
