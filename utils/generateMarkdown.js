@@ -12,58 +12,58 @@ function renderLicenseBadge(license) {
   }
 }
 
-// TODO: Create a function that returns the license section of README
-// If there is no license, return an empty string
-function renderLicenseSection(license) {
-  if (license[0] === 'MIT') {
-    return `* [License](#license)`;
-  } else if (license[0] === 'Apache_2.0') {
-    return `* [License](#license)`;
-  } else if (license[0] === 'GPLv3') {
-    return `* [License](#license)`;
-  } else {
-    return "";
-  }
-}
 
 // TODO: Create a function to generate markdown for README
 function generateMarkdown(data) {
   return `# ${data.title}
-
   ${renderLicenseBadge(data.license)}
+
 
 
   ## Description
   ${data.description}
+
+
 
   ## Table of Contents
   * [Installation Instructions](#installation)
   * [Usage Information](#usage)
   * [Contribution Guidelines](#contribution)
   * [Test Instructions](#test)
-  ${renderLicenseBadge(data.license)}
   * [Questions](#questions)
+  * [License](#license)
+
   
 
   ## Installation Instructions
   ${data.installation}
 
+
+
   ## Usage Information
   ${data.usage}
+
+
 
   ## Contribution Guidelines 
   ${data.contribution}
 
+
+
   ## Test Instructions
   ${data.test}
 
-  ## License
-  ${data.license}
+
 
   ## Questions
   * If you'd like to learn more about this application, check out my [GitHub profile](https://github.com/${data.github})
   
   * If you have any questions, please email me at ${data.email}.
+
+
+  
+  ## License
+  ${data.license}
 
 `;
 }
