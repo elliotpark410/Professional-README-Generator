@@ -1,4 +1,5 @@
 # enter node modules in .gitigore
 node_modules
+todo.txt
 
 
