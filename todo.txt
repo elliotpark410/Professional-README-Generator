@@ -19,11 +19,11 @@ Copy README template and create README
     -learning how to create badges: https://gist.github.com/lukas-h/2a5d00690736b4c3a7ba
     -learning how to create Table of Contents: https://github.com/othneildrew/Best-README-Template
     -learning how to create a good README: https://github.com/scottydocs/README-template.md
-Review grading criteria 
-Capture video recording of README generator for previous homework 
-Include screenshots for easier README readability
-Make sure video looks good   
-Submit video recording and Github URL to Bootcamp Spot 
+Review grading criteria DONE
+Capture video recording of README generator DONE
+Include screenshots for easier README readability DONE
+Make sure video looks good  DONE
+Submit video recording and Github URL to Bootcamp Spot DONE
 
 
 
