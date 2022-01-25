@@ -34,22 +34,22 @@ function generateMarkdown(data) {
 
   
 
-  ## Installation 
+  ## Installation Instructions
   ${data.installation}
 
 
 
-  ## Usage 
+  ## Usage Information
   ${data.usage}
 
 
 
-  ## Contribution  
+  ## Contribution Guidelines
   ${data.contribution}
 
 
 
-  ## Test 
+  ## Test Instructions
   ${data.test}
 
 
