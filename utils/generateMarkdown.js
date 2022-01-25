@@ -26,12 +26,11 @@ function generateMarkdown(data) {
 
 
   ## Table of Contents
-  * [Installation Instructions](#installation)
-  * [Usage Information](#usage)
-  * [Contribution Guidelines](#contribution)
-  * [Test Instructions](#test)
-  * [Questions](#questions)
-  * [License](#license)
+  * [Installation Instructions](## Installation Instructions)
+  * [Usage Information](## Usage Information)
+  * [Contribution Guidelines](## Contribution Guidelines)
+  * [Test Instructions](## Test Instructions)
+  * [Questions](## Questions)
 
   
 
@@ -60,10 +59,6 @@ function generateMarkdown(data) {
   
   * If you have any questions, please don't hesitate to email me at ${data.email}.
 
-
-
-  ## License
-  ${data.license}
 
 `;
 }
