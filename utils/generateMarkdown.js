@@ -26,30 +26,30 @@ function generateMarkdown(data) {
 
 
   ## Table of Contents
-  * [Installation Instructions](# Installation Instructions)
-  * [Usage Information](# Usage Information)
-  * [Contribution Guidelines](# Contribution Guidelines)
-  * [Test Instructions](# Test Instructions)
-  * [Questions](# Questions)
+  * [Installation Instructions](#installation)
+  * [Usage Information](#usage)
+  * [Contribution Guidelines](#contribution)
+  * [Test Instructions](#test)
+  * [Questions](#questions)
 
   
 
-  ## Installation Instructions
+  ## Installation 
   ${data.installation}
 
 
 
-  ## Usage Information
+  ## Usage 
   ${data.usage}
 
 
 
-  ## Contribution Guidelines 
+  ## Contribution  
   ${data.contribution}
 
 
 
-  ## Test Instructions
+  ## Test 
   ${data.test}
 
 
